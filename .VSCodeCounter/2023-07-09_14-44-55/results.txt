@@ -1,0 +1,80 @@
+Date : 2023-07-09 14:44:55
+Directory : c:\Users\John\Documents\project_ngo\lib
+Total : 52 files,  7794 codes, 27 comments, 393 blanks, all 8214 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         52 |      7,794 |         27 |        393 |      8,214 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                         | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                            |         52 |      7,794 |         27 |        393 |      8,214 |
+| . (Files)                                                                    |         11 |      2,479 |         18 |        109 |      2,606 |
+| Admin                                                                        |         19 |      3,019 |          7 |        140 |      3,166 |
+| firebase_utils                                                               |          1 |         63 |          0 |          7 |         70 |
+| models                                                                       |         21 |      2,233 |          2 |        137 |      2,372 |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                     | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\John\Documents\project_ngo\lib\Admin\AdminHome.dart                 | Dart     |        403 |          1 |          8 |        412 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\AdminHomeTabManager.dart       | Dart     |        178 |          0 |          8 |        186 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\Calendar.dart                  | Dart     |         77 |          0 |         13 |         90 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\Cards.dart                     | Dart     |          4 |          0 |          2 |          6 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\CertificateFetcher.dart        | Dart     |         25 |          0 |          9 |         34 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\CreateNewEvent.dart            | Dart     |        414 |          1 |         14 |        429 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\CreateNewTraining.dart         | Dart     |        414 |          1 |         14 |        429 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\EditTrainingMaterials.dart     | Dart     |        166 |          1 |          5 |        172 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\Event.dart                     | Dart     |         96 |          0 |          5 |        101 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\EventDetails.dart              | Dart     |        192 |          0 |          6 |        198 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\EventFetcher.dart              | Dart     |         28 |          0 |          7 |         35 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\ManageEvents.dart              | Dart     |        194 |          1 |          6 |        201 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\ManageTrainings.dart           | Dart     |        194 |          1 |          6 |        201 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\Reward.dart                    | Dart     |         82 |          0 |          5 |         87 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\RewardFetcher.dart             | Dart     |         26 |          0 |          7 |         33 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\Training.dart                  | Dart     |         96 |          0 |          5 |        101 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\TrainingDetails.dart           | Dart     |        193 |          0 |          6 |        199 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\TrainingFetcher.dart           | Dart     |         28 |          0 |          7 |         35 |
+| c:\Users\John\Documents\project_ngo\lib\Admin\UploadFilesToTraining.dart     | Dart     |        209 |          1 |          7 |        217 |
+| c:\Users\John\Documents\project_ngo\lib\Login.dart                           | Dart     |        201 |          0 |          7 |        208 |
+| c:\Users\John\Documents\project_ngo\lib\Message.dart                         | Dart     |        253 |          0 |         13 |        266 |
+| c:\Users\John\Documents\project_ngo\lib\Messages.dart                        | Dart     |        145 |          0 |          9 |        154 |
+| c:\Users\John\Documents\project_ngo\lib\Rejected.dart                        | Dart     |         87 |          0 |          3 |         90 |
+| c:\Users\John\Documents\project_ngo\lib\Search.dart                          | Dart     |        212 |          1 |          9 |        222 |
+| c:\Users\John\Documents\project_ngo\lib\WaitingVerify.dart                   | Dart     |         87 |          0 |          3 |         90 |
+| c:\Users\John\Documents\project_ngo\lib\components.dart                      | Dart     |        227 |          0 |         13 |        240 |
+| c:\Users\John\Documents\project_ngo\lib\firebase_options.dart                | Dart     |         48 |         12 |          3 |         63 |
+| c:\Users\John\Documents\project_ngo\lib\firebase_utils\utils.dart            | Dart     |         63 |          0 |          7 |         70 |
+| c:\Users\John\Documents\project_ngo\lib\home.dart                            | Dart     |        335 |          2 |         16 |        353 |
+| c:\Users\John\Documents\project_ngo\lib\main.dart                            | Dart     |        856 |          3 |         30 |        889 |
+| c:\Users\John\Documents\project_ngo\lib\models\Calendar.dart                 | Dart     |         77 |          0 |         13 |         90 |
+| c:\Users\John\Documents\project_ngo\lib\models\Cards.dart                    | Dart     |          4 |          0 |          2 |          6 |
+| c:\Users\John\Documents\project_ngo\lib\models\Certificate.dart              | Dart     |         12 |          0 |          2 |         14 |
+| c:\Users\John\Documents\project_ngo\lib\models\CertificateFetcher.dart       | Dart     |         25 |          0 |          9 |         34 |
+| c:\Users\John\Documents\project_ngo\lib\models\Certification.dart            | Dart     |         72 |          0 |          5 |         77 |
+| c:\Users\John\Documents\project_ngo\lib\models\CertificationFetcher.dart     | Dart     |         29 |          0 |          8 |         37 |
+| c:\Users\John\Documents\project_ngo\lib\models\CreateNewReward.dart          | Dart     |        414 |          1 |         15 |        430 |
+| c:\Users\John\Documents\project_ngo\lib\models\DateOfBirth.dart              | Dart     |         13 |          0 |          3 |         16 |
+| c:\Users\John\Documents\project_ngo\lib\models\Event.dart                    | Dart     |         96 |          0 |          5 |        101 |
+| c:\Users\John\Documents\project_ngo\lib\models\EventDetails.dart             | Dart     |        192 |          0 |          6 |        198 |
+| c:\Users\John\Documents\project_ngo\lib\models\EventFetcher.dart             | Dart     |         28 |          0 |          7 |         35 |
+| c:\Users\John\Documents\project_ngo\lib\models\HomeTabManager.dart           | Dart     |        212 |          0 |          8 |        220 |
+| c:\Users\John\Documents\project_ngo\lib\models\ManageRewards.dart            | Dart     |        194 |          1 |          6 |        201 |
+| c:\Users\John\Documents\project_ngo\lib\models\RegistrationConfirmation.dart | Dart     |        368 |          0 |          6 |        374 |
+| c:\Users\John\Documents\project_ngo\lib\models\Reward.dart                   | Dart     |         82 |          0 |          5 |         87 |
+| c:\Users\John\Documents\project_ngo\lib\models\RewardFetcher.dart            | Dart     |         26 |          0 |          7 |         33 |
+| c:\Users\John\Documents\project_ngo\lib\models\Training.dart                 | Dart     |         96 |          0 |          5 |        101 |
+| c:\Users\John\Documents\project_ngo\lib\models\TrainingDetails.dart          | Dart     |        193 |          0 |          6 |        199 |
+| c:\Users\John\Documents\project_ngo\lib\models\TrainingFetcher.dart          | Dart     |         28 |          0 |          7 |         35 |
+| c:\Users\John\Documents\project_ngo\lib\models\UserData.dart                 | Dart     |         55 |          0 |          6 |         61 |
+| c:\Users\John\Documents\project_ngo\lib\models\UserSingleton.dart            | Dart     |         17 |          0 |          6 |         23 |
+| c:\Users\John\Documents\project_ngo\lib\utils.dart                           | Dart     |         28 |          0 |          3 |         31 |
+| Total                                                                        |          |      7,794 |         27 |        393 |      8,214 |
++------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

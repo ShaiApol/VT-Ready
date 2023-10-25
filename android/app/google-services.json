@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "638706959792",
+    "project_id": "project-ngo-386e7",
+    "storage_bucket": "project-ngo-386e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638706959792:android:69829ebe0ddd90a3b00275",
+        "android_client_info": {
+          "package_name": "com.example.project_ngo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638706959792-t7ua3c2hqp5b0n1pl9hgqbs5cqud7u35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK9ETKRR7y4vAZgCrM00D3qd62E7Vs9nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638706959792-t7ua3c2hqp5b0n1pl9hgqbs5cqud7u35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638706959792:android:57368298def9a8ccb00275",
+        "android_client_info": {
+          "package_name": "luminous.digital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638706959792-t7ua3c2hqp5b0n1pl9hgqbs5cqud7u35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK9ETKRR7y4vAZgCrM00D3qd62E7Vs9nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638706959792-t7ua3c2hqp5b0n1pl9hgqbs5cqud7u35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
